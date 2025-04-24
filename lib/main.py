@@ -136,7 +136,7 @@ def _parallel_func(
         data,
         columns=column_names,
     )
-    out["age (Ma)"] = np.float_(time)
+    out["age (Ma)"] = np.float64(time)
     
     return out
 
