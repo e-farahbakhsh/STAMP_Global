@@ -22,6 +22,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -83,6 +84,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -110,6 +112,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -195,6 +198,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -222,6 +226,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -283,6 +288,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -310,6 +316,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -371,6 +378,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -398,6 +406,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -471,6 +480,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -498,6 +508,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -571,6 +582,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -598,6 +610,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -659,6 +672,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -686,6 +700,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -759,6 +774,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -786,6 +802,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -859,6 +876,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -886,6 +904,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -959,6 +978,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -986,6 +1006,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1059,6 +1080,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1086,6 +1108,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1159,6 +1182,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1186,6 +1210,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1259,6 +1284,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1286,6 +1312,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1359,6 +1386,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1386,6 +1414,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1447,6 +1476,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1474,6 +1504,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1535,6 +1566,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1562,6 +1594,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1647,6 +1680,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1674,6 +1708,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1759,6 +1794,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1786,6 +1822,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1871,6 +1908,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -1898,6 +1936,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -1983,6 +2022,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2010,6 +2050,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2083,6 +2124,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2110,6 +2152,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2195,6 +2238,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2222,6 +2266,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2283,6 +2328,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2310,6 +2356,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2371,6 +2418,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2398,6 +2446,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2459,6 +2508,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2486,6 +2536,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2547,6 +2598,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2574,6 +2626,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2635,6 +2688,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2662,6 +2716,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2723,6 +2778,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2750,6 +2806,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2811,6 +2868,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2838,6 +2896,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2899,6 +2958,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -2926,6 +2986,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -2987,6 +3048,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3014,6 +3076,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3075,6 +3138,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3102,6 +3166,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3163,6 +3228,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3190,6 +3256,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3251,6 +3318,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3278,6 +3346,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3339,6 +3408,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3366,6 +3436,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3427,6 +3498,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3454,6 +3526,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3515,6 +3588,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3542,6 +3616,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3603,6 +3678,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3630,6 +3706,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3691,6 +3768,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3718,6 +3796,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3779,6 +3858,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3806,6 +3886,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3867,6 +3948,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3894,6 +3976,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -3955,6 +4038,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -3982,6 +4066,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4043,6 +4128,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4070,6 +4156,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4131,6 +4218,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4158,6 +4246,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4219,6 +4308,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4246,6 +4336,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4307,6 +4398,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4334,6 +4426,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4395,6 +4488,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4422,6 +4516,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4483,6 +4578,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4510,6 +4606,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>602</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4607,6 +4704,7 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:boundary>
@@ -4634,6 +4732,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>602</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -4719,120 +4818,9 @@
                             </gpml:exterior>
                         </gpml:TopologicalPolygon>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
                 </gpml:ConstantValue>
-            </gpml:boundary>
-        </gpml:TopologicalSlabBoundary>
-    </gml:featureMember>
-    <gml:featureMember>
-        <gpml:TopologicalSlabBoundary>
-            <gpml:identity>GPlates-4c9b546a-3be0-4d0f-b710-7c9bb6bd6df2</gpml:identity>
-            <gpml:revision>GPlates-d9cb05e9-f860-4e3c-ac90-747d462e1ddb</gpml:revision>
-            <gml:name>Laramide flat slab</gml:name>
-            <gml:validTime>
-                <gml:TimePeriod>
-                    <gml:begin>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">100</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:begin>
-                    <gml:end>
-                        <gml:TimeInstant>
-                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">48.009999999999998</gml:timePosition>
-                        </gml:TimeInstant>
-                    </gml:end>
-                </gml:TimePeriod>
-            </gml:validTime>
-            <gpml:reconstructionPlateId>
-                <gpml:ConstantValue>
-                    <gpml:value>101</gpml:value>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
-                </gpml:ConstantValue>
-            </gpml:reconstructionPlateId>
-            <gpml:boundary>
-                <gpml:PiecewiseAggregation>
-                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
-                    <gpml:timeWindow>
-                        <gpml:TimeWindow>
-                            <gpml:timeDependentPropertyValue>
-                                <gpml:ConstantValue>
-                                    <gpml:value>
-                                        <gpml:TopologicalPolygon>
-                                            <gpml:exterior>
-                                                <gpml:TopologicalSections>
-                                                    <gpml:section>
-                                                        <gpml:TopologicalLineSection>
-                                                            <gpml:sourceGeometry>
-                                                                <gpml:PropertyDelegate>
-                                                                    <gpml:targetFeature>GPlates-080e1b0b-a1b0-4a40-a3b4-2002762e9557</gpml:targetFeature>
-                                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
-                                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
-                                                                </gpml:PropertyDelegate>
-                                                            </gpml:sourceGeometry>
-                                                            <gpml:reverseOrder>false</gpml:reverseOrder>
-                                                        </gpml:TopologicalLineSection>
-                                                    </gpml:section>
-                                                    <gpml:section>
-                                                        <gpml:TopologicalLineSection>
-                                                            <gpml:sourceGeometry>
-                                                                <gpml:PropertyDelegate>
-                                                                    <gpml:targetFeature>GPlates-3e74f142-f94c-4965-ae3d-21b6dcf13c63</gpml:targetFeature>
-                                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
-                                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
-                                                                </gpml:PropertyDelegate>
-                                                            </gpml:sourceGeometry>
-                                                            <gpml:reverseOrder>false</gpml:reverseOrder>
-                                                        </gpml:TopologicalLineSection>
-                                                    </gpml:section>
-                                                    <gpml:section>
-                                                        <gpml:TopologicalLineSection>
-                                                            <gpml:sourceGeometry>
-                                                                <gpml:PropertyDelegate>
-                                                                    <gpml:targetFeature>GPlates-836709c9-469e-450c-9289-3406ee416bbf</gpml:targetFeature>
-                                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
-                                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
-                                                                </gpml:PropertyDelegate>
-                                                            </gpml:sourceGeometry>
-                                                            <gpml:reverseOrder>false</gpml:reverseOrder>
-                                                        </gpml:TopologicalLineSection>
-                                                    </gpml:section>
-                                                    <gpml:section>
-                                                        <gpml:TopologicalLineSection>
-                                                            <gpml:sourceGeometry>
-                                                                <gpml:PropertyDelegate>
-                                                                    <gpml:targetFeature>GPlates-f6b296d2-c222-4cc1-97c7-515a90115f40</gpml:targetFeature>
-                                                                    <gpml:targetProperty xmlns:gpml="http://www.gplates.org/gplates">gpml:centerLineOf</gpml:targetProperty>
-                                                                    <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:LineString</gpml:valueType>
-                                                                </gpml:PropertyDelegate>
-                                                            </gpml:sourceGeometry>
-                                                            <gpml:reverseOrder>true</gpml:reverseOrder>
-                                                        </gpml:TopologicalLineSection>
-                                                    </gpml:section>
-                                                </gpml:TopologicalSections>
-                                            </gpml:exterior>
-                                        </gpml:TopologicalPolygon>
-                                    </gpml:value>
-                                    <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
-                                </gpml:ConstantValue>
-                            </gpml:timeDependentPropertyValue>
-                            <gpml:validTime>
-                                <gml:TimePeriod>
-                                    <gml:begin>
-                                        <gml:TimeInstant>
-                                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">100</gml:timePosition>
-                                        </gml:TimeInstant>
-                                    </gml:begin>
-                                    <gml:end>
-                                        <gml:TimeInstant>
-                                            <gml:timePosition gml:frame="http://gplates.org/TRS/flat">50</gml:timePosition>
-                                        </gml:TimeInstant>
-                                    </gml:end>
-                                </gml:TimePeriod>
-                            </gpml:validTime>
-                            <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:TopologicalPolygon</gpml:valueType>
-                        </gpml:TimeWindow>
-                    </gpml:timeWindow>
-                </gpml:PiecewiseAggregation>
             </gpml:boundary>
         </gpml:TopologicalSlabBoundary>
     </gml:featureMember>
@@ -4858,12 +4846,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -4883,6 +4873,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -4910,12 +4901,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -4935,6 +4928,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -4962,12 +4956,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -4987,6 +4983,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5014,12 +5011,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5039,6 +5038,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5066,6 +5066,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -5085,6 +5086,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5112,12 +5114,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201119</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5132,11 +5136,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159322 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
+                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159323 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5164,6 +5169,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>60202</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -5175,6 +5181,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5194,6 +5201,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5221,12 +5229,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5246,6 +5256,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5273,12 +5284,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5293,11 +5306,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5325,12 +5339,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5345,11 +5361,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5377,12 +5394,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201119</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5397,11 +5416,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159322 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
+                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159323 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5429,12 +5449,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5454,6 +5476,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5481,12 +5504,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5506,6 +5531,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5533,12 +5559,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5558,6 +5586,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5585,12 +5614,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5610,6 +5641,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:unclassifiedGeometry>
@@ -5637,6 +5669,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -5648,6 +5681,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5667,6 +5701,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5694,6 +5729,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -5710,6 +5746,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5737,6 +5774,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>60202</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -5758,6 +5796,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5785,12 +5824,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5810,6 +5851,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5837,12 +5879,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5862,6 +5906,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5889,12 +5934,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201117</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5909,11 +5956,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-25.687995705292632 -67.977055669655584 -25.929715032582262 -67.943172664108545 -26.065545873675759 -67.954119021921429 -26.154932940696305 -67.979242961300699 -26.288417531343281 -68.025922651274655 -26.417373931706781 -68.080556545366704 -26.818740636457878 -68.204247858925171 -27.254900561650718 -68.235313243365709 -27.757732016474247 -68.17031233618269 -28.106243388836386 -68.142767767808024 -28.479670671682236 -68.053945018831172 -28.766442763383637 -67.954004515253288 -29.131548128522375 -67.849188898379097 -29.483551112867779 -67.752918714137252 -29.910685683411117 -67.612306354937303 -30.298014381558165 -67.447114037577109 -30.568799232302336 -67.365364276508316 -30.791952524461788 -67.412187154821595 -30.972969262953512 -67.615757644608152 -31.129032652597481 -67.942806327191434 -31.321248989767074 -68.30724946455544 -31.690321511194313 -68.693153252193866 -31.964208528191129 -68.888750070718743 -32.346787263634376 -69.068171435750841 -32.672730058529119 -69.200780505578606 -33.01552873931977 -69.264737912684055 -33.270277061166858 -69.219585092787156 -33.480454292508078 -69.1264550585325 -33.784798684714993 -69.057119275476111 -33.968239551231228 -69.177494215774814 </gml:posList>
+                                    <gml:posList gml:dimension="2">-25.687995705292632 -67.977055669655584 -25.929715032582259 -67.943172664108545 -26.065545873675759 -67.954119021921429 -26.154932940696305 -67.979242961300699 -26.288417531343281 -68.025922651274655 -26.417373931706781 -68.080556545366704 -26.818740636457875 -68.204247858925171 -27.254900561650718 -68.235313243365709 -27.757732016474247 -68.17031233618269 -28.106243388836386 -68.142767767808024 -28.479670671682236 -68.053945018831172 -28.766442763383637 -67.954004515253288 -29.131548128522375 -67.849188898379097 -29.483551112867779 -67.752918714137252 -29.910685683411117 -67.612306354937303 -30.298014381558165 -67.447114037577109 -30.568799232302336 -67.365364276508316 -30.791952524461788 -67.412187154821595 -30.972969262953509 -67.615757644608152 -31.129032652597481 -67.942806327191434 -31.321248989767074 -68.30724946455544 -31.690321511194313 -68.693153252193866 -31.964208528191122 -68.888750070718743 -32.346787263634376 -69.068171435750841 -32.672730058529112 -69.200780505578606 -33.015528739319777 -69.264737912684055 -33.270277061166858 -69.219585092787156 -33.480454292508085 -69.1264550585325 -33.784798684714993 -69.057119275476111 -33.968239551231228 -69.177494215774814 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5941,12 +5989,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -5961,11 +6011,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-24.449126666000225 -68.541994373799241 -27.053188358490651 -68.827030065429341 -29.678608194657876 -68.823894332172074 -30.372056091789798 -68.713743999123594 -30.906970818544195 -68.994061246838953 -31.380690343220493 -69.48855128843951 -33.915050676561464 -70.415846411434444 </gml:posList>
+                                    <gml:posList gml:dimension="2">-24.449126666000225 -68.541994373799241 -27.053188358490651 -68.827030065429341 -29.678608194657876 -68.823894332172074 -30.372056091789798 -68.713743999123594 -30.906970818544195 -68.994061246838953 -31.380690343220486 -69.48855128843951 -33.915050676561464 -70.415846411434444 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -5993,6 +6044,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6004,6 +6056,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6023,6 +6076,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6050,12 +6104,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201119</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6070,11 +6126,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159322 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
+                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159323 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6102,6 +6159,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6118,6 +6176,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6145,12 +6204,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201122</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6170,6 +6231,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6197,12 +6259,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6222,6 +6286,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:unclassifiedGeometry>
@@ -6249,6 +6314,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6260,11 +6326,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-25.717026907832221 -73.000924782045686 -25.828262933506299 -71.509670752712793 -25.841017197609652 -71.08757732126071 -25.852541065397777 -70.556565319385683 -25.881726395308441 -70.06948360768979 -25.886581265336556 -69.566056341837793 -25.948406800657548 -69.083907510314759 -26.033951808408599 -68.591068230946874 -26.150670228346442 -68.006501903241343 -26.321325467360051 -67.196285502749475 -26.435258150036919 -66.718973106263704 -26.511418804616273 -66.386881734035001 </gml:posList>
+                                    <gml:posList gml:dimension="2">-25.717026907832221 -73.000924782045686 -25.828262933506299 -71.509670752712793 -25.841017197609652 -71.08757732126071 -25.852541065397777 -70.556565319385683 -25.881726395308441 -70.06948360768979 -25.886581265336556 -69.566056341837793 -25.948406800657551 -69.083907510314759 -26.033951808408599 -68.591068230946874 -26.150670228346446 -68.006501903241343 -26.321325467360051 -67.196285502749475 -26.435258150036919 -66.718973106263704 -26.511418804616273 -66.386881734035001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6292,12 +6359,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6317,6 +6386,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6344,6 +6414,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6360,6 +6431,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6387,12 +6459,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6412,6 +6486,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6439,12 +6514,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6459,11 +6536,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-24.449126666000474 -68.541994373799398 -27.053188358490839 -68.827030065429454 -29.003099749662308 -69.192728969105673 -29.603474427582682 -69.19907928743558 -30.419684506578534 -69.329974707676541 -31.209780415495686 -69.72633784997609 -33.915050676561933 -70.415846411434501 </gml:posList>
+                                    <gml:posList gml:dimension="2">-24.449126666000474 -68.541994373799398 -27.053188358490839 -68.827030065429454 -29.003099749662308 -69.192728969105673 -29.603474427582682 -69.19907928743558 -30.419684506578534 -69.329974707676541 -31.209780415495686 -69.72633784997609 -33.91505067656194 -70.415846411434501 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6491,12 +6569,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6516,6 +6596,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:unclassifiedGeometry>
@@ -6543,6 +6624,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6554,6 +6636,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6573,6 +6656,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6600,12 +6684,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6625,6 +6711,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6652,6 +6739,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -6668,6 +6756,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6695,12 +6784,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201117</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6715,11 +6806,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-25.687995705292902 -67.977055669655613 -25.929715032582674 -67.943172664108516 -26.065545873676051 -67.954119021921372 -26.154932940696593 -67.97924296130077 -26.288417531343498 -68.025922651274684 -26.4173739317071 -68.080556545366761 -26.818740636458319 -68.204247858925271 -27.254900561651009 -68.235313243365766 -27.757732016474513 -68.170312336182661 -28.114872724918939 -68.049052335571687 -28.401640579020849 -67.901029281944588 -28.677457310077727 -67.741111664225429 -29.072657685240362 -67.539323618994572 -29.56665921193758 -67.274887868372033 -29.968503725154047 -67.103845575190064 -30.157140259108569 -66.978351269073087 -30.369663716325888 -66.809111007046795 -30.618032995200338 -66.63244809521683 -30.812128325595847 -66.576512327683375 -30.930468296411071 -66.598741957920879 -31.110718339478133 -66.806992652336533 -31.232177307244672 -67.207565896623265 -31.350662961581065 -68.029814056987348 -31.481131443744832 -68.42046710643244 -31.690321511194718 -68.693153252193724 -31.964208528191516 -68.888750070718771 -32.346787263634781 -69.068171435750955 -32.672730058529609 -69.20078050557855 -33.015528739320025 -69.264737912684154 -33.270277061167569 -69.219585092787142 -33.480454292508782 -69.126455058532642 -33.784798684715589 -69.057119275476083 -33.968239551231733 -69.177494215774857 </gml:posList>
+                                    <gml:posList gml:dimension="2">-25.687995705292902 -67.977055669655613 -25.929715032582674 -67.943172664108516 -26.065545873676051 -67.954119021921372 -26.154932940696597 -67.97924296130077 -26.288417531343498 -68.025922651274684 -26.4173739317071 -68.080556545366761 -26.818740636458319 -68.204247858925271 -27.254900561651009 -68.235313243365766 -27.757732016474513 -68.170312336182661 -28.114872724918939 -68.049052335571687 -28.401640579020849 -67.901029281944588 -28.677457310077727 -67.741111664225429 -29.072657685240362 -67.539323618994572 -29.56665921193758 -67.274887868372033 -29.968503725154047 -67.103845575190064 -30.157140259108569 -66.978351269073087 -30.369663716325896 -66.809111007046795 -30.618032995200338 -66.63244809521683 -30.812128325595847 -66.576512327683375 -30.930468296411071 -66.598741957920879 -31.110718339478133 -66.806992652336533 -31.232177307244672 -67.207565896623265 -31.350662961581072 -68.029814056987348 -31.481131443744832 -68.42046710643244 -31.690321511194718 -68.693153252193724 -31.964208528191516 -68.888750070718771 -32.346787263634781 -69.068171435750955 -32.672730058529609 -69.20078050557855 -33.015528739320025 -69.264737912684154 -33.270277061167569 -69.219585092787142 -33.480454292508774 -69.126455058532642 -33.784798684715589 -69.057119275476083 -33.968239551231733 -69.177494215774857 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6747,12 +6839,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201122</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6772,6 +6866,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6799,12 +6894,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201117</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6819,11 +6916,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-25.687995705292632 -67.977055669655584 -25.929715032582262 -67.943172664108545 -26.065545873675759 -67.954119021921429 -26.154932940696305 -67.979242961300699 -26.288417531343281 -68.025922651274655 -26.417373931706781 -68.080556545366704 -26.818740636457878 -68.204247858925171 -27.254900561650718 -68.235313243365709 -27.757732016474247 -68.17031233618269 -28.106243388836386 -68.142767767808024 -28.479670671682236 -68.053945018831172 -28.766442763383637 -67.954004515253288 -29.131548128522375 -67.849188898379097 -29.483551112867779 -67.752918714137252 -29.910685683411117 -67.612306354937303 -30.298014381558165 -67.447114037577109 -30.568799232302336 -67.365364276508316 -30.791952524461788 -67.412187154821595 -30.972969262953512 -67.615757644608152 -31.129032652597481 -67.942806327191434 -31.321248989767074 -68.30724946455544 -31.690321511194313 -68.693153252193866 -31.964208528191129 -68.888750070718743 -32.346787263634376 -69.068171435750841 -32.672730058529119 -69.200780505578606 -33.01552873931977 -69.264737912684055 -33.270277061166858 -69.219585092787156 -33.480454292508078 -69.1264550585325 -33.784798684714993 -69.057119275476111 -33.968239551231228 -69.177494215774814 </gml:posList>
+                                    <gml:posList gml:dimension="2">-25.687995705292632 -67.977055669655584 -25.929715032582259 -67.943172664108545 -26.065545873675759 -67.954119021921429 -26.154932940696305 -67.979242961300699 -26.288417531343281 -68.025922651274655 -26.417373931706781 -68.080556545366704 -26.818740636457875 -68.204247858925171 -27.254900561650718 -68.235313243365709 -27.757732016474247 -68.17031233618269 -28.106243388836386 -68.142767767808024 -28.479670671682236 -68.053945018831172 -28.766442763383637 -67.954004515253288 -29.131548128522375 -67.849188898379097 -29.483551112867779 -67.752918714137252 -29.910685683411117 -67.612306354937303 -30.298014381558165 -67.447114037577109 -30.568799232302336 -67.365364276508316 -30.791952524461788 -67.412187154821595 -30.972969262953509 -67.615757644608152 -31.129032652597481 -67.942806327191434 -31.321248989767074 -68.30724946455544 -31.690321511194313 -68.693153252193866 -31.964208528191122 -68.888750070718743 -32.346787263634376 -69.068171435750841 -32.672730058529112 -69.200780505578606 -33.015528739319777 -69.264737912684055 -33.270277061166858 -69.219585092787156 -33.480454292508085 -69.1264550585325 -33.784798684714993 -69.057119275476111 -33.968239551231228 -69.177494215774814 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6851,12 +6949,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6871,11 +6971,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6903,12 +7004,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6923,11 +7026,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -6955,12 +7059,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -6980,6 +7086,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:unclassifiedGeometry>
@@ -7007,12 +7114,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7032,6 +7141,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7059,12 +7169,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7079,11 +7191,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7111,12 +7224,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201117</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7131,11 +7246,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-25.687995705292902 -67.977055669655613 -25.929715032582674 -67.943172664108516 -26.065545873676051 -67.954119021921372 -26.154932940696593 -67.97924296130077 -26.288417531343498 -68.025922651274684 -26.4173739317071 -68.080556545366761 -26.818740636458319 -68.204247858925271 -27.254900561651009 -68.235313243365766 -27.757732016474513 -68.170312336182661 -28.114872724918939 -68.049052335571687 -28.401640579020849 -67.901029281944588 -28.677457310077727 -67.741111664225429 -29.072657685240362 -67.539323618994572 -29.56665921193758 -67.274887868372033 -29.968503725154047 -67.103845575190064 -30.157140259108569 -66.978351269073087 -30.369663716325888 -66.809111007046795 -30.618032995200338 -66.63244809521683 -30.812128325595847 -66.576512327683375 -30.930468296411071 -66.598741957920879 -31.110718339478133 -66.806992652336533 -31.232177307244672 -67.207565896623265 -31.350662961581065 -68.029814056987348 -31.481131443744832 -68.42046710643244 -31.690321511194718 -68.693153252193724 -31.964208528191516 -68.888750070718771 -32.346787263634781 -69.068171435750955 -32.672730058529609 -69.20078050557855 -33.015528739320025 -69.264737912684154 -33.270277061167569 -69.219585092787142 -33.480454292508782 -69.126455058532642 -33.784798684715589 -69.057119275476083 -33.968239551231733 -69.177494215774857 </gml:posList>
+                                    <gml:posList gml:dimension="2">-25.687995705292902 -67.977055669655613 -25.929715032582674 -67.943172664108516 -26.065545873676051 -67.954119021921372 -26.154932940696597 -67.97924296130077 -26.288417531343498 -68.025922651274684 -26.4173739317071 -68.080556545366761 -26.818740636458319 -68.204247858925271 -27.254900561651009 -68.235313243365766 -27.757732016474513 -68.170312336182661 -28.114872724918939 -68.049052335571687 -28.401640579020849 -67.901029281944588 -28.677457310077727 -67.741111664225429 -29.072657685240362 -67.539323618994572 -29.56665921193758 -67.274887868372033 -29.968503725154047 -67.103845575190064 -30.157140259108569 -66.978351269073087 -30.369663716325896 -66.809111007046795 -30.618032995200338 -66.63244809521683 -30.812128325595847 -66.576512327683375 -30.930468296411071 -66.598741957920879 -31.110718339478133 -66.806992652336533 -31.232177307244672 -67.207565896623265 -31.350662961581072 -68.029814056987348 -31.481131443744832 -68.42046710643244 -31.690321511194718 -68.693153252193724 -31.964208528191516 -68.888750070718771 -32.346787263634781 -69.068171435750955 -32.672730058529609 -69.20078050557855 -33.015528739320025 -69.264737912684154 -33.270277061167569 -69.219585092787142 -33.480454292508774 -69.126455058532642 -33.784798684715589 -69.057119275476083 -33.968239551231733 -69.177494215774857 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7163,12 +7279,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7188,6 +7306,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7215,12 +7334,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7240,6 +7361,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7267,12 +7389,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7292,6 +7416,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7319,6 +7444,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7330,6 +7456,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7349,6 +7476,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7376,6 +7504,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7392,6 +7521,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7419,6 +7549,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>60202</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7440,6 +7571,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7467,12 +7599,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201122</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7492,6 +7626,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7519,12 +7654,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201124</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7544,6 +7681,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7571,6 +7709,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7582,11 +7721,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-38.378238514043055 -75.361827343248478 -38.391202559308844 -74.884459198009893 -38.408314549390006 -74.369030742197694 -38.419850394636448 -74.110946567579575 -38.43482062880053 -73.777103215990223 -38.436578956272584 -73.339131003381965 -38.472384238879691 -72.870498705089972 -38.465879771266799 -72.471458723588967 -38.498653722399197 -72.002933650158027 -38.506848334915304 -71.564885272200613 -38.559301626435726 -71.06568369312933 -38.60299242384869 -70.719033671351141 -38.64579352090918 -70.372128043851646 -38.686139012908164 -69.932227759854598 -38.750819651921432 -69.557554119405594 -38.836719529741217 -69.14828284305203 </gml:posList>
+                                    <gml:posList gml:dimension="2">-38.378238514043062 -75.361827343248478 -38.391202559308844 -74.884459198009893 -38.408314549390006 -74.369030742197694 -38.419850394636448 -74.110946567579575 -38.43482062880053 -73.777103215990223 -38.436578956272584 -73.339131003381965 -38.472384238879691 -72.870498705089972 -38.465879771266799 -72.471458723588967 -38.498653722399197 -72.002933650158027 -38.506848334915304 -71.564885272200613 -38.559301626435726 -71.06568369312933 -38.60299242384869 -70.719033671351141 -38.64579352090918 -70.372128043851646 -38.686139012908164 -69.932227759854598 -38.750819651921432 -69.557554119405594 -38.836719529741217 -69.14828284305203 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7614,12 +7754,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201119</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7634,11 +7776,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159322 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
+                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159323 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7666,12 +7809,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7691,6 +7836,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7718,12 +7864,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7743,6 +7891,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7770,6 +7919,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7786,6 +7936,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7813,6 +7964,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7824,6 +7976,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7843,6 +7996,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7870,6 +8024,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7881,11 +8036,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.29160598800145 -74.167300642587477 -33.18936651832481 -72.93185634384399 -33.176791670203798 -71.990959291745426 -33.162472321210174 -71.42060354158869 -33.175360139216103 -70.953644618238769 -33.199176773832377 -70.50560927963798 -33.215302689238776 -69.933169918129707 -33.260211937465257 -69.261294131184073 -33.332340154110859 -68.489442654306231 -33.361326580566399 -67.660471685176105 -33.470696278614007 -66.841655677130532 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.29160598800145 -74.167300642587477 -33.189366518324803 -72.93185634384399 -33.176791670203791 -71.990959291745426 -33.162472321210174 -71.42060354158869 -33.175360139216103 -70.953644618238769 -33.199176773832377 -70.50560927963798 -33.215302689238776 -69.933169918129707 -33.260211937465257 -69.261294131184073 -33.332340154110859 -68.489442654306231 -33.361326580566399 -67.660471685176105 -33.470696278614007 -66.841655677130532 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7913,12 +8069,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7938,6 +8096,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -7965,6 +8124,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201127</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -7976,6 +8136,7 @@
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -7995,6 +8156,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8022,12 +8184,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201119</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8042,11 +8206,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159322 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
+                                    <gml:posList gml:dimension="2">1.1890457663395342 -77.721423589892837 0.19050282687234915 -77.387585581967585 -0.30350577752771418 -77.2605099119708 -0.88478264522661698 -77.06336965219036 -1.4764271969467906 -76.768129307050046 -2.0630361063475968 -76.512472978495623 -2.6884463246724652 -76.261201101718186 -3.0424580761711661 -76.120162359126795 -3.3766459388416474 -75.976998960057685 -3.8701948928742658 -75.765508982200245 -4.2606047834441272 -75.75585305616876 -4.4673651884583441 -75.882496624843213 -4.7240608924042222 -76.14497383519921 -4.9421414431990165 -76.403495270171632 -5.1258927564938928 -76.502006752400106 -5.3765463558843258 -76.581949526958795 -5.7111908524938109 -76.606114628962032 -6.1098941890874077 -76.637566457722599 -6.5399225606037357 -76.620425653587674 -6.8446534669631323 -76.56313499490102 -7.028328287704583 -76.426797991066593 -7.1550361522953514 -76.336349042573929 -7.4467691883899825 -76.041823558945268 -7.6387862527307231 -75.827591565204841 -7.8616517697537924 -75.496678709118157 -8.0697867688139961 -75.302289030043895 -8.272161416506874 -75.135650936633525 -8.5488813220063502 -74.963863477285187 -8.7593220205999494 -74.83523858157443 -8.9768297955101666 -74.757121381987034 -9.2136474578258838 -74.730802153658573 -9.5551366130894539 -74.764940730162039 -9.8258582084707751 -74.767149107598499 -10.055256167920474 -74.690220908933696 -10.320577603159323 -74.51271754795917 -10.766738848163552 -74.164042055396266 -11.148098297372451 -73.833654127731677 -11.505447964246709 -73.487556433310729 -12.089835188962921 -72.971831620331415 -12.179164195367985 -72.814833209392489 -12.261854993548116 -72.593389217272616 -12.396027909820678 -72.351235670885856 -12.588284605848878 -72.15261269322022 -12.931910154009646 -71.929580886272547 -13.208011926256301 -71.763647367764037 -13.629947362010565 -71.636470921002697 -14.032844496297832 -71.584080841352289 -14.426599054894277 -71.525126847134374 -15.280909738193177 -71.429453003685154 -15.954680849295942 -71.357499059245001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8074,12 +8239,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201121</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8099,6 +8266,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8126,12 +8294,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201120</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8151,6 +8321,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8178,12 +8349,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>101001</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8198,11 +8371,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">46.209599999999988 -108.92100000000001 43.4131 -107.238 42.6691 -106.57599999999999 41.318600000000018 -105.703 40.114699999999999 -105.06399999999999 39.138399999999997 -104.45 38.239100000000008 -103.657 37.560699999999997 -103.26600000000001 36.730499999999999 -102.785 35.8992 -102.31200000000001 34.913800000000002 -101.476 34.231099999999998 -101.205 33.775599999999997 -101.026 32.959899999999998 -100.38800000000001 </gml:posList>
+                                    <gml:posList gml:dimension="2">46.209599999999988 -108.92100000000001 43.4131 -107.238 42.6691 -106.57599999999999 41.318600000000018 -105.703 40.114699999999999 -105.06399999999999 39.138399999999997 -104.45 38.239100000000001 -103.657 37.560699999999997 -103.26600000000001 36.730499999999999 -102.785 35.8992 -102.31200000000001 34.913800000000002 -101.476 34.231099999999991 -101.205 33.775599999999997 -101.026 32.959899999999998 -100.38800000000001 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8230,12 +8404,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8250,11 +8426,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8282,6 +8459,7 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
@@ -8301,6 +8479,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8328,12 +8507,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201122</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8353,6 +8534,7 @@
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
@@ -8380,12 +8562,14 @@
             <gpml:reconstructionPlateId>
                 <gpml:ConstantValue>
                     <gpml:value>201123</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:plateId</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:reconstructionPlateId>
             <gpml:subductionPolarity>
                 <gpml:ConstantValue>
                     <gpml:value>Left</gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gpml="http://www.gplates.org/gplates">gpml:SubductionPolarityEnumeration</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:subductionPolarity>
@@ -8400,11 +8584,12 @@
                         <gml:OrientableCurve>
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721438 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158316 -71.497655078489018 </gml:posList>
+                                    <gml:posList gml:dimension="2">-33.00565486961402 -70.322470914680096 -33.173656071901249 -70.338612686859918 -33.363869388511013 -70.368820509624129 -33.665962575546772 -70.430700545626607 -33.880241576721446 -70.469257964298009 -34.092937921862337 -70.519218773201203 -34.617133830967767 -70.606116438819839 -35.459319981854733 -70.745974960655857 -36.033282443068003 -70.848033107200251 -36.817433176165707 -71.082728706996619 -37.432245261097478 -71.280200197791658 -37.887661778084073 -71.374281336290238 -38.764686970158323 -71.497655078489018 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
                     </gpml:value>
+                    <gml:description></gml:description>
                     <gpml:valueType xmlns:gml="http://www.opengis.net/gml">gml:OrientableCurve</gpml:valueType>
                 </gpml:ConstantValue>
             </gpml:centerLineOf>
