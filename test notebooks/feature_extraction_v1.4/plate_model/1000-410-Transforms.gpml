@@ -8118,7 +8118,7 @@
     <gml:featureMember>
         <gpml:Transform>
             <gpml:identity>GPlates-a72f9430-878c-433d-a8d7-b26edf692dbb</gpml:identity>
-            <gpml:revision>GPlates-1b6926f3-1e60-4511-9741-3695f00c5d96</gpml:revision>
+            <gpml:revision>GPlates-f8afbb55-2723-4d2a-ad4d-a511480f2297</gpml:revision>
             <gml:name>Cuyania-Gondwana transform</gml:name>
             <gml:description>Domeier (2016)</gml:description>
             <gml:validTime>
@@ -8153,7 +8153,7 @@
                         <gml:OrientableCurve gml:orientation="+">
                             <gml:baseCurve>
                                 <gml:LineString>
-                                    <gml:posList gml:dimension="2">-3.9510966954646971 -78.594992750594812 -5.8521672503712789 -75.989785694329072 -6.8904613763769058 -72.919677820141999 -7.5915862334816513 -70.088172029141759 -7.6435221103241195 -68.757335380513283 -7.2580714963359787 -67.646800700180606 -6.5516537255798948 -66.369991162301915 -5.8443385884187817 -65.307872926274243 -4.8085160789163508 -63.43544020664357 </gml:posList>
+                                    <gml:posList gml:dimension="2">-3.9510966954646976 -78.594992750594798 -5.8521672503712789 -75.989785694329058 -6.8904613763769103 -72.919677820141985 -7.591586233481654 -70.088172029141745 -7.6435221103241249 -68.757335380513268 -7.2580714963359849 -67.646800700180606 -6.5516537255798974 -66.369991162301915 -5.8443385884187897 -65.307872926274243 -4.279405726851035 -62.477010519567607 </gml:posList>
                                 </gml:LineString>
                             </gml:baseCurve>
                         </gml:OrientableCurve>
