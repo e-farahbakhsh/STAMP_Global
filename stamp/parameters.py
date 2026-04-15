@@ -5,6 +5,7 @@ parameters = {
     'max': 515
     },
     
+    'anchor_plate_id': 0,
     'temporal_resolution': 1,
     'buffer_distance': 6,
     'num_random': 10,

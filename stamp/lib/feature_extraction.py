@@ -63,10 +63,11 @@ def run_calculate_convergence(
     min_time: float,
     max_time: float,
     temporal_resolution: int,
+    plate_reconstruction: Optional[PlateReconstruction] = None,
     rotation_model: Optional[Union[Sequence[str], str]] = None,
     topology_features: Optional[Sequence[str]] = None,
     static_polygons: Optional[Sequence[str]] = None,
-    plate_reconstruction: Optional[PlateReconstruction] = None,
+    anchor_plate_id: int = 0,
     output_filename: Optional[str] = None,
     n_jobs: int = 1,
     verbose: bool = False,
@@ -140,6 +141,7 @@ def run_calculate_convergence(
                 rotation_model=rotation_model,
                 topology_features=topology_features,
                 static_polygons=static_polygons,
+                anchor_plate_id=anchor_plate_id,
             )
 
     times = np.arange(min_time, max_time + temporal_resolution, temporal_resolution)
@@ -164,6 +166,7 @@ def run_calculate_convergence(
                     rotation_model=rotation_model,
                     topology_features=topology_features,
                     static_polygons=static_polygons,
+                    anchor_plate_id=anchor_plate_id,
                     time=t,
                     ignore_warnings=True,
                 )
@@ -244,6 +247,7 @@ def _tessellate_szs_parallel(
     topology_features: Sequence[str],
     static_polygons: Sequence[str],
     time: float,
+    anchor_plate_id: int = 0,
     tessellation_threshold_radians: float = 0.001,
     ignore_warnings: bool = True,
 ) -> pd.DataFrame:
@@ -252,6 +256,7 @@ def _tessellate_szs_parallel(
         rotation_model=rotation_model,
         topology_features=topology_features,
         static_polygons=static_polygons,
+        anchor_plate_id=anchor_plate_id,
     )
     
     return _tessellate_szs(
@@ -269,6 +274,7 @@ def run_coregister_ocean_rasters(
     rotation_model: Optional[_RotationModelInput] = None,
     topology_features: Optional[_FeatureCollectionInput] = None,
     static_polygons: Optional[_FeatureCollectionInput] = None,
+    anchor_plate_id: int = 0,
     plates_dir: Optional[_PathLike] = None,
     agegrid_dir: Optional[_PathLike] = None,
     spreadrate_dir: Optional[_PathLike] = None,
@@ -387,6 +393,7 @@ def run_coregister_ocean_rasters(
             topology_features=topology_features,
             rotation_model=rotation_model,
             static_polygons=static_polygons,
+            anchor_plate_id=anchor_plate_id,
             plates_dir=plates_dir,
             agegrid_dir=agegrid_dir,
             spreadrate_dir=spreadrate_dir,
@@ -409,6 +416,7 @@ def run_coregister_ocean_rasters(
                     rotation_model=rotation_model,
                     topology_features=topology_features,
                     static_polygons=static_polygons,
+                    anchor_plate_id=anchor_plate_id,
                     plates_dir=plates_dir,
                     agegrid_dir=agegrid_dir,
                     spreadrate_dir=spreadrate_dir,
@@ -446,6 +454,7 @@ def _coregister_ocean_rasters_subset(
     rotation_model=None,
     topology_features=None,
     static_polygons=None,
+    anchor_plate_id: int = 0,
     plates_dir=None,
     **kwargs,
 ):
@@ -469,6 +478,7 @@ def _coregister_ocean_rasters_subset(
             rotation_model=rotation_model,
             topology_features=topology_features,
             static_polygons=static_polygons,
+            anchor_plate_id=anchor_plate_id,
             plates_dir=plates_dir,
             agegrid_dir=agegrid_dir,
             spreadrate_dir=spreadrate_dir,
@@ -492,6 +502,7 @@ def _coregister_ocean_rasters_subset_parallel(
     rotation_model=None,
     topology_features=None,
     static_polygons=None,
+    anchor_plate_id: int = 0,
     plates_dir=None,
     **kwargs,
 ):
@@ -511,6 +522,7 @@ def _coregister_ocean_rasters_subset_parallel(
             rotation_model=rotation_model,
             topology_features=topology_features,
             static_polygons=static_polygons,
+            anchor_plate_id=anchor_plate_id,
         )
 
     return [
@@ -518,6 +530,7 @@ def _coregister_ocean_rasters_subset_parallel(
             time=t,
             df=df,
             plate_reconstruction=plate_reconstruction,
+            anchor_plate_id=anchor_plate_id,
             plates_dir=plates_dir,
             agegrid_dir=agegrid_dir,
             spreadrate_dir=spreadrate_dir,
@@ -542,6 +555,7 @@ def _coregister_ocean_rasters(
     rotation_model: Optional[_RotationModelInput] = None,
     topology_features: Optional[_FeatureCollectionInput] = None,
     static_polygons: Optional[_FeatureCollectionInput] = None,
+    anchor_plate_id: int = 0,
     plates_dir: Optional[_PathLike] = None,
     subducted_thickness_dir: Optional[_PathLike] = None,
     subducted_sediments_dir: Optional[_PathLike] = None,
@@ -562,6 +576,7 @@ def _coregister_ocean_rasters(
             rotation_model=rotation_model,
             topology_features=topology_features,
             static_polygons=static_polygons,
+            anchor_plate_id=anchor_plate_id,
             **kwargs,
         )
         plates = np.array(raster)
@@ -744,6 +759,7 @@ def _create_plate_map(
     rotation_model: Optional[pygplates.RotationModel] = None,
     topology_features: Optional[pygplates.FeatureCollection] = None,
     static_polygons: Optional[pygplates.FeatureCollection] = None,
+    anchor_plate_id: int = 0,
     resolution: float = 0.1, # degrees
     tessellate_degrees: Optional[float] = None,
     output_filename: Optional[Union[os.PathLike, str]] = None,
@@ -763,9 +779,10 @@ def _create_plate_map(
                 rotation_model=rotation_model,
                 topology_features=topology_features,
                 static_polygons=static_polygons,
+                anchor_plate_id=anchor_plate_id,
             )
                 
-    gplot = PlotTopologies(plate_reconstruction)
+    gplot = PlotTopologies(plate_reconstruction, anchor_plate_id=anchor_plate_id)
     gplot.time = time
 
     topologies = gplot.get_all_topologies(
@@ -874,6 +891,7 @@ def extract_subducted_thickness(
     columns=None,
     grid_resolution=0.5,
     plate_reconstruction: Optional[PlateReconstruction] = None,
+    anchor_plate_id: int = 0,
     method="nearest",
 ):
     
@@ -1036,6 +1054,7 @@ def extract_subducted_thickness(
             plate_map = _create_plate_map(
                 time=time,
                 plate_reconstruction=plate_reconstruction,
+                anchor_plate_id=anchor_plate_id,
                 resolution=grid_resolution,
             )
         else:
@@ -1087,6 +1106,7 @@ def _coregister_raster(
     points: pd.DataFrame,
     plate_map: Optional[Raster] = None,
     plate_reconstruction: Optional[PlateReconstruction] = None,
+    anchor_plate_id: int = 0,
     time: Optional[float] = None,
     method="nearest",
 ):
@@ -1096,6 +1116,7 @@ def _coregister_raster(
         plate_map = _create_plate_map(
             time=time,
             plate_reconstruction=plate_reconstruction,
+            anchor_plate_id=anchor_plate_id,
             resolution=360 / (raster.shape[1] - 1),
         ).data
     elif plate_map is not None:
