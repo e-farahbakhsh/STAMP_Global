@@ -3,7 +3,7 @@ Preservation
 
 Author: Ehsan Farahbakhsh
 Contact email: e.farahbakhsh@sydney.edu.au
-Date last modified: 12/05/2026
+Date last modified: 11/08/2026
 '''
 
 import os
@@ -22,7 +22,10 @@ from numpy.typing import (
 )
 import pandas as pd
 from sklearn.ensemble import IsolationForest
+from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import NearestNeighbors
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import SplineTransformer
 import xarray as xr
 
 
@@ -390,3 +393,215 @@ def clean_outliers_advanced(
     if return_mask:
         return cleaned_data, inlier_mask
     return cleaned_data
+
+
+class PreservationScore:
+
+    """
+    Preservation-exposure score estimated by case-control logistic regression.
+
+    Replaces a probability density fitted to the cumulative erosion of known
+    deposits alone. A density of that kind, f(E | deposit), is not a
+    preservation probability, because it partly reproduces how common each
+    erosion value is across the available arc area. Comparing deposits against
+    the unlabelled background instead recovers the relative enrichment,
+    f(E | deposit) / f(E | background), which is proportional to
+    P(deposit | E) up to a constant.
+
+    The model is a cubic B-spline basis in log-transformed cumulative erosion
+    followed by a regularised logistic regression. The returned score is the
+    linear predictor rescaled to the unit interval over the fitted erosion
+    range. Rescaling is monotonic, so location rankings are preserved, and the
+    bounds are stored on the fitted object so that every point set scored with
+    it shares one common scale.
+
+    Points with zero cumulative erosion should be excluded from the fit.
+    Cumulative erosion is identically zero at 0 Ma by construction, so the
+    zero value carries no information about preservation and its extreme
+    over-representation in the background would otherwise distort the fit.
+
+    Parameters
+    ----------
+    n_knots : int, optional, default=6
+        Number of knots in the spline basis. Values of 5 or 6 give a stable
+        single-peaked curve. Larger values begin to fit noise at low erosion.
+    degree : int, optional, default=3
+        Degree of the spline basis.
+    offset : float, optional, default=50.0
+        Constant in metres added before log transformation, which keeps the
+        transform finite at small erosion values.
+    C : float, optional, default=1.0
+        Inverse regularisation strength passed to the logistic regression.
+        Smaller values give a smoother curve.
+
+    Attributes
+    ----------
+    model_ : sklearn.pipeline.Pipeline
+        The fitted spline and logistic regression pipeline.
+    bounds_ : tuple of float
+        Minimum and maximum of the linear predictor over the fitted data,
+        used to rescale the score to the unit interval.
+
+    Notes
+    -----
+    - The score is a bounded relative measure of preservation and exposure. It
+      is not a calibrated probability that a deposit has survived.
+    - No value is overridden. Zero erosion receives the score the fitted
+      function assigns it, and heavily eroded ground receives a low score
+      rather than being dropped.
+    """
+
+    def __init__(
+        self,
+        n_knots: int = 6,
+        degree: int = 3,
+        offset: float = 50.0,
+        C: float = 1.0,
+    ) -> None:
+        self.n_knots = n_knots
+        self.degree = degree
+        self.offset = offset
+        self.C = C
+        self.model_ = None
+        self.bounds_ = None
+
+    def _transform(self, erosion: ArrayLike) -> NDArray:
+        return np.log10(np.asarray(erosion, dtype=float) + self.offset).reshape(-1, 1)
+
+    def fit(
+        self,
+        deposit_erosion: ArrayLike,
+        background_erosion: ArrayLike,
+    ) -> "PreservationScore":
+
+        """
+        Fit the score on known deposits against the unlabelled background.
+
+        Parameters
+        ----------
+        deposit_erosion : array-like
+            Cumulative erosion in metres at known deposit locations.
+        background_erosion : array-like
+            Cumulative erosion in metres at unlabelled background locations.
+
+        Returns
+        -------
+        PreservationScore
+            The fitted object.
+        """
+
+        deposit_erosion = np.asarray(deposit_erosion, dtype=float)
+        background_erosion = np.asarray(background_erosion, dtype=float)
+
+        erosion = np.concatenate([deposit_erosion, background_erosion])
+        labels = np.concatenate(
+            [np.ones(deposit_erosion.size), np.zeros(background_erosion.size)]
+        )
+        finite = np.isfinite(erosion)
+        erosion, labels = erosion[finite], labels[finite]
+
+        self.model_ = make_pipeline(
+            SplineTransformer(
+                n_knots=self.n_knots,
+                degree=self.degree,
+                extrapolation="constant",
+            ),
+            LogisticRegression(C=self.C, max_iter=2000),
+        ).fit(self._transform(erosion), labels)
+
+        predictor = self.model_.decision_function(self._transform(erosion))
+        self.bounds_ = (float(np.min(predictor)), float(np.max(predictor)))
+        return self
+
+    def score(self, erosion: ArrayLike) -> NDArray:
+
+        """
+        Return the preservation-exposure score on the unit interval.
+
+        Parameters
+        ----------
+        erosion : array-like
+            Cumulative erosion in metres.
+
+        Returns
+        -------
+        ndarray
+            Score values in the range zero to one, with NaN where the input
+            erosion is not finite.
+        """
+
+        if self.model_ is None:
+            raise RuntimeError("Call fit() before score().")
+
+        erosion = np.asarray(erosion, dtype=float)
+        out = np.full(erosion.shape, np.nan)
+        finite = np.isfinite(erosion)
+        lower, upper = self.bounds_
+        predictor = self.model_.decision_function(self._transform(erosion[finite]))
+        out[finite] = np.clip((predictor - lower) / (upper - lower), 0.0, 1.0)
+        return out
+
+    def held_out_auc(
+        self,
+        deposit_erosion: ArrayLike,
+        background_erosion: ArrayLike,
+        n_splits: int = 25,
+        train_fraction: float = 0.7,
+        random_state: Optional[int] = 42,
+    ) -> Tuple[float, float]:
+
+        """
+        Evaluate the score on held-out deposits.
+
+        The model is refitted on a random training fraction and scored on the
+        remainder, repeated over several splits. Returns the mean and standard
+        deviation of the area under the receiver operating characteristic curve.
+        A value of 0.5 indicates no discrimination between deposits and
+        background.
+        """
+
+        deposit_erosion = np.asarray(deposit_erosion, dtype=float)
+        background_erosion = np.asarray(background_erosion, dtype=float)
+        erosion = np.concatenate([deposit_erosion, background_erosion])
+        labels = np.concatenate(
+            [np.ones(deposit_erosion.size), np.zeros(background_erosion.size)]
+        )
+        rng = np.random.default_rng(random_state)
+
+        def _auc(values, truth):
+            order = np.argsort(values)
+            truth = np.asarray(truth)[order]
+            n_pos = truth.sum()
+            n_neg = truth.size - n_pos
+            ranks = np.arange(1, truth.size + 1)
+            return (ranks[truth == 1].sum() - n_pos * (n_pos + 1) / 2) / (n_pos * n_neg)
+
+        scores = []
+        for _ in range(n_splits):
+            index = rng.permutation(labels.size)
+            cut = int(train_fraction * labels.size)
+            train, test = index[:cut], index[cut:]
+            fold = PreservationScore(
+                n_knots=self.n_knots,
+                degree=self.degree,
+                offset=self.offset,
+                C=self.C,
+            ).fit(
+                erosion[train][labels[train] == 1],
+                erosion[train][labels[train] == 0],
+            )
+            scores.append(_auc(fold.score(erosion[test]), labels[test]))
+
+        return float(np.mean(scores)), float(np.std(scores))
+
+    def summary(self, grid: Optional[ArrayLike] = None) -> pd.DataFrame:
+
+        """Tabulate the fitted score over a grid of cumulative erosion values."""
+
+        if grid is None:
+            grid = np.array(
+                [0, 250, 500, 1000, 2000, 3000, 5000, 8000, 12000, 20000, 30000],
+                dtype=float,
+            )
+        grid = np.asarray(grid, dtype=float)
+        return pd.DataFrame({"erosion (m)": grid, "preservation score": self.score(grid)})

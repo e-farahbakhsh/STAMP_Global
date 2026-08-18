@@ -104,25 +104,13 @@ UNCERTAINTY_KWARGS = {
     "alpha": 0.9,
     "zorder": RIDGES_KWARGS["zorder"] + 1,
 }
-
-hawaii = ccm.hawaii
-single_color = hawaii(0.0)
-n_colors_total = 256
-n_colors_single = 128
-n_colors_hawaii = 128
-lower_colors = np.tile(single_color, (n_colors_single, 1))
-upper_colors = hawaii(np.linspace(0, 1, n_colors_hawaii))
-combined_colors = np.vstack([lower_colors, upper_colors])
-custom_preservation_cmap = ListedColormap(combined_colors, name='custom_preservation')
-
 PRES_KWARGS = {
-    "cmap": custom_preservation_cmap,
+    "cmap": ccm.hawaii_r,
     "vmin": 0,
     "vmax": 100,
     "alpha": 0.9,
     "zorder": RIDGES_KWARGS["zorder"] + 1,
 }
-
 TRENCHES_KWARGS = {
     "color": "black",
     "alpha": 0.5,
@@ -419,16 +407,16 @@ def plot(
         cbar_grid.set_label("Uncertainty", fontsize=FONT_SIZE, labelpad=10)
         cbar_grid.set_ticks([0, 0.2, 0.4, 0.6, 0.8, 1.0])
     elif grid_type == "preservation":
-        cbar_grid.set_label("Preservation likelihood (%)", fontsize=FONT_SIZE, labelpad=10)
+        cbar_grid.set_label("Preservation score (%)", fontsize=FONT_SIZE, labelpad=10)
         cbar_grid.set_ticks([0, 20, 40, 60, 80, 100])
     elif grid_type == "probability_unc":
         cbar_grid.set_label("Adjusted probability by uncertainty (%)", fontsize=FONT_SIZE, labelpad=10)
         cbar_grid.set_ticks([0, 20, 40, 60, 80, 100])    
     elif grid_type == "probability_pres":
-        cbar_grid.set_label("Preserved mineralisation probability (%)", fontsize=FONT_SIZE, labelpad=10)
+        cbar_grid.set_label("Preserved mineralisation prospectivity (%)", fontsize=FONT_SIZE, labelpad=10)
         cbar_grid.set_ticks([0, 20, 40, 60, 80, 100])    
     elif grid_type == "probability_unc_pres":
-        cbar_grid.set_label("Adjusted probability of preserved mineralisation (%)", fontsize=FONT_SIZE-2, labelpad=10)
+        cbar_grid.set_label("Adjusted prospectivity of preserved mineralisation (%)", fontsize=FONT_SIZE-2.5, labelpad=10)
         cbar_grid.set_ticks([0, 20, 40, 60, 80, 100])    
 
     cbar_grid.ax.tick_params(labelsize=TICK_SIZE)
