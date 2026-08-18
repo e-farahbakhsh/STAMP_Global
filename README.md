@@ -1,10 +1,10 @@
 # Spatiotemporal prospectivity modelling of porphyry mineralisation on a global scale
 
-This repository contains **STAMP** (Spatio-Temporal Analysis of Mineral Prospectivity), the open-source workflow used to build a global, full-Phanerozoic model of porphyry copper prospectivity that couples a machine learning formation probability model with a preservation likelihood framework derived from landscape evolution modelling. It accompanies the paper:
+This repository contains **STAMP** (Spatio-Temporal Analysis of Mineral Prospectivity), the open-source workflow used to build a global, full-Phanerozoic model of porphyry copper prospectivity that couples a machine learning formation probability model with a preservation score framework derived from landscape evolution modelling. It accompanies the paper:
 
 > Farahbakhsh, E., McInnes, B. I. A., Kohlmann, F., Seton, M., Dutkiewicz, A., Müller, R. D. (2026). *Global porphyry copper prospectivity through the Phanerozoic from interpretable machine learning coupling formation and preservation*. [Under review]
 
-The workflow reconstructs subduction zone kinematics and downgoing plate properties through deep time and trains an interpretable classifier that combines positive–unlabelled bagging with a random forest. Across the global arc network and at one-million-year resolution, it estimates the probability that porphyry mineralisation formed, the uncertainty of that prediction, and the preservation likelihood that a deposit, once formed, has survived subsequent erosion, combining these into a map of preserved mineralisation probability. See the paper for full details.
+The workflow reconstructs subduction zone kinematics and downgoing plate properties through deep time and trains an interpretable classifier that combines positive–unlabelled bagging with a random forest. Across the global arc network and at one-million-year resolution, it estimates the probability that porphyry mineralisation formed, the uncertainty of that prediction, and the preservation score that a deposit, once formed, has survived subsequent erosion, combining these into a map of preserved mineralisation prospectivity. See the paper for full details.
 
 The current workflow is compatible with pyGPlates v1.0.0 and GPlately v2.0.0 and is designed to work with any plate reconstruction model available in the Plate Model Manager.
 
@@ -19,7 +19,7 @@ STAMP is organised as six Jupyter notebooks, run in order, supported by a set of
 | `03_feature_analysis.ipynb` | Prepare and downsample the data, examine the pairwise correlation structure and hierarchical clustering of the features, retain one representative feature per cluster, and generate provisional labels through positive–unlabelled bagging. |
 | `04_predictive_modelling.ipynb` | Train the downstream random forest, evaluate it (ROC/AUC, calibration), interpret it (Gini and permutation importance, partial dependence and ICE, SHAP), and compute the mineralisation probability, uncertainty, and adjusted probability through time. |
 | `05_prospectivity_map.ipynb` | Fill the present-day continental landmasses with a regular grid, reconstruct the grid through time within the trench buffer zones, predict the probability at each point, and produce the present-day global prospectivity maps with prediction–area (P–A) evaluation. |
-| `06_preservation.ipynb` | Coregister the points with the cumulative erosion grids, remove outliers, fit a generalised gamma preservation likelihood function, and combine it with the formation probability to map the preserved mineralisation probability. |
+| `06_preservation.ipynb` | Coregister the points with the cumulative erosion grids and use case-control logistic regression of deposits against background on a cubic B-spline basis in log-transformed cumulative erosion to estimate preservation score, and combine it with the formation probability to map the preserved mineralisation prospectivity. |
 
 ### The `lib/` package
 
@@ -72,7 +72,7 @@ Beyond the plate reconstruction, which is fetched automatically through the Plat
 - **Oceanic grids** reconstructed on the chosen plate model: seafloor age (`SeafloorAge`), spreading rate (`SpreadingRate`), total deep-sea sediment thickness (`SedimentThickness`), and upper-oceanic-crust carbon (`CrustalCO2`).
 - **Perple_X lookup tables** for slab devolatilisation, organised by reservoir (`Sediments`, `Metabasalts`, `Intrusives`, `Sublithospheric_Oceanic_mantle`), each with H<sub>2</sub>O and CO<sub>2</sub> tables.
 - **Crustal thickness grids**, used only by the secondary model.
-- **Cumulative erosion grids** from a deep-time landscape evolution model, named `cumulative_erosion_{time}Ma.nc`, used to estimate preservation likelihood.
+- **Cumulative erosion grids** from a deep-time landscape evolution model, named `cumulative_erosion_{time}Ma.nc`, used to estimate preservation score.
 - **A global porphyry copper deposit database**, providing the positive (training) samples.
 
 ## Running the workflow
