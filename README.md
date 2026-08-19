@@ -78,7 +78,7 @@ Beyond the plate reconstruction, which is fetched automatically through the Plat
 ## Running the workflow
 
 1. Prepare the environment and `parameters.py` as above, and place the input data under `inputs_dir`.
-2. Run the notebooks in numerical order, `01` through `06`. Each notebook writes its outputs to `outputs_dir`, where they are picked up by the subsequent notebooks.
+2. Run the notebooks in numerical order, `01` through `06`. Each notebook writes its outputs to `outputs_dir`, where subsequent notebooks pick them up.
 3. Present-day and time-dependent prospectivity maps, the preservation-conditioned maps, and the accompanying animations are produced by notebooks `04` to `06`.
 
 ## Citation
