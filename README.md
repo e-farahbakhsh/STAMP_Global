@@ -1,5 +1,7 @@
 # Spatiotemporal prospectivity modelling of porphyry mineralisation on a global scale
 
+[![DOI](https://zenodo.org/badge/970421704.svg)](https://doi.org/10.5281/zenodo.22004331)
+
 This repository contains **STAMP** (Spatio-Temporal Analysis of Mineral Prospectivity), the open-source workflow used to build a global, full-Phanerozoic model of porphyry copper prospectivity that couples a machine learning formation probability model with a preservation score derived from landscape evolution modelling. It accompanies the paper:
 
 > Farahbakhsh, E., McInnes, B. I. A., Kohlmann, F., Seton, M., Dutkiewicz, A., Müller, R. D. (2026). *Global porphyry copper prospectivity through the Phanerozoic from interpretable machine learning coupling formation and preservation*. [Under review]
